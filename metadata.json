@@ -1,0 +1,6 @@
+{
+  "name": "NRK Studios Portfolio",
+  "description": "Innovative, reliable, and user-friendly digital solutions across education, business management, productivity, and entertainment. Build the future with us.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
